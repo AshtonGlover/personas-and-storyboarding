@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personas-and-storyboarding/static/css/main.b3d990f6.css",
+    "main.js": "/personas-and-storyboarding/static/js/main.20b00cb9.js",
+    "static/js/453.6c057003.chunk.js": "/personas-and-storyboarding/static/js/453.6c057003.chunk.js",
+    "index.html": "/personas-and-storyboarding/index.html",
+    "main.b3d990f6.css.map": "/personas-and-storyboarding/static/css/main.b3d990f6.css.map",
+    "main.20b00cb9.js.map": "/personas-and-storyboarding/static/js/main.20b00cb9.js.map",
+    "453.6c057003.chunk.js.map": "/personas-and-storyboarding/static/js/453.6c057003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3d990f6.css",
+    "static/js/main.20b00cb9.js"
+  ]
+}
